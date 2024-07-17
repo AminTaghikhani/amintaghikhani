@@ -11,24 +11,35 @@
 Hi, I'm Amin Taghikhani, a passionate self-taught Software Engineer.
 
 - 🔭 I’m currently working on [Pasargad Electronic Payment](https://pep.co.ir)
-- 🌱 I’m currently working with Javascript, NodeJs, Typescript, NestJs
+- 🌱 I’m currently working with Java, Spring, Javascript, NodeJs, Typescript, NestJs
 - 📫 You can reach me on Telegram: [@Amin_Reigns](https://t.me/amin_reigns)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+Languages:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,cpp,cs,py)](https://skillicons.dev)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+Frameworks:
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,express,dotnet,fastapi,flask,qt,react,angular)](https://skillicons.dev)
+
+Databases:
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis)](https://skillicons.dev)
+
+Orms:
+
+[![Orms](https://skillicons.dev/icons?i=hibernate,sequelize)](https://skillicons.dev)
+
+Infrastructures:
+
+[![Infrastructures](https://skillicons.dev/icons?i=maven,docker,grafana,kafka,nginx,prometheus,rabbitmq)](https://skillicons.dev)
+
+Tools:
+
+[![Tools](https://skillicons.dev/icons?i=idea,vim,neovim,arduino,git,gherkin,jest,postman,vscode)](https://skillicons.dev)
 
 
 ![Amin's github stats](https://github-readme-stats.vercel.app/api?username=amintaghikhani&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amintaghikhani&layout=compact&hide=css,html,shell&theme=tokyonight)
