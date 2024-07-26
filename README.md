@@ -41,5 +41,5 @@ Tools:
 [![Tools](https://skillicons.dev/icons?i=idea,vim,neovim,arduino,git,gherkin,jest,postman,vscode)](https://skillicons.dev)
 
 
-![Amin's github stats](https://github-readme-stats.vercel.app/api?username=amintaghikhani&theme=tokyonight&count_private=true&include_all_commits=true)
+![Amin's github stats](https://github-readme-stats.vercel.app/api?username=amintaghikhani&theme=tokyonight&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amintaghikhani&layout=compact&hide=css,html,shell&theme=tokyonight&count_private=true&include_all_commits=true)
